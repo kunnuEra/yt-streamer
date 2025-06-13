@@ -1,0 +1,9 @@
+{
+  "build": {
+    "env": {
+      "VIDEO_URL": "https://drive.google.com/uc?export=download&id=Your_GDrive_ID",
+      "STREAM_URL": "rtmp://a.rtmp.youtube.com/live2",
+      "STREAM_KEY": "YourStreamKey"
+    }
+  }
+}
